@@ -1,8 +1,8 @@
 # SOLVARA — The Poster for a Place That Isn't There
 
 [![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Indramunggahari10/the-poster-for-a-place-that-i-2-20261121-0539-ono10/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard)
-[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/Indramunggahari10/the-poster-for-a-place-that-i-2-20261121-0539-ono10/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/vjmunggahari-ui/the-poster-for-a-place-that-i-2-20261121-0539-ono10/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/vjmunggahari-ui/the-poster-for-a-place-that-i-2-20261121-0539-ono10/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
 
 A travel poster for **SOLVARA** — an island that does not exist, where the sun sets twice.
 
